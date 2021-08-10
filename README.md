@@ -8,8 +8,11 @@ Here are some ideas to get you started:
 
 -->
 
+- 😄 Pronouns: she/her
 - 🔭 I’m currently working on NodeJS & Flutter
 - 🌱 I’m currently learning ML & Product management
-- 📫 How to reach me: elshadai@knovuslab.com or linkedin/in/elshadai-tegegn
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a basketball player 
+- 📫 How to reach me: mail:elshadai@knovuslab.com or https://www.linkedin.com/in/elshadai-tegegn
+- ⚡ Hobbies: Playing basketball and writing
+
+
+CV: http://blooming-basin-13464.herokuapp.com/
