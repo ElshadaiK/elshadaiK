@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 😄 She/her
 - 👩‍💻 Working on NodeJS & Flutter && Learning ML & Product management
-- 📫 How to reach me: [Elshadai Tegegn](mailto:elshadai.tegegn@gmail.com?subject=[GitHub] Source Han Sans) or [Linkedin](https://www.linkedin.com/in/elshadai-tegegn)
+- 📫 How to reach me: [Elshadai Tegegn](mailto:elshadai.tegegn@gmail.com?subject=[GitHub]) or [Linkedin](https://www.linkedin.com/in/elshadai-tegegn)
 - ⚡ Hobbies: Playing basketball and writing
 
 
