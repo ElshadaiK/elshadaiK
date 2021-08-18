@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-- Elsh here
-I'm currently wrking on NodeJS & Flutter & Django and Learning ML & Product management
+- Elsh here! I'm currently wrking on NodeJS & Flutter & Django and Learning ML & Product management
 
 
 - Wanna 💬? You can find me on [![Twitter][1.2]][1], on [LinkedIn](https://www.linkedin.com/in/elshadai-tegegn/), or email [Elshadai Tegegn](mailto:elshadai.tegegn@gmail.com?subject=[GitHub]).
