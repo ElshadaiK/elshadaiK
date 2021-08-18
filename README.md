@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 👩‍💻 Working on NodeJS & Flutter & Django
 - 👩‍🏫 Learning ML & Product management
 - 📫 Reach me at: 
-- You can find me on 
-- [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+- You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3] [Elshadai Tegegn](mailto:elshadai.tegegn@gmail.com?subject=[GitHub]).
 
 
 
@@ -26,7 +25,7 @@ Here are some ideas to get you started:
 [2]: https://www.linkedin.com/in/elshadai-tegegn/
 
 
-[Elshadai Tegegn](mailto:elshadai.tegegn@gmail.com?subject=[GitHub]) or [Linkedin](https://www.linkedin.com/in/elshadai-tegegn)
+
 - ⚡ I love 🏀⛹️‍♀️ (still learning 😃) and writing (I work as a content writer too)
 - 🕸 [Personal webiste/CV](http://blooming-basin-13464.herokuapp.com/)
 
