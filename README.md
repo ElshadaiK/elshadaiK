@@ -27,7 +27,8 @@ I'm currently wrking on NodeJS & Flutter & Django and Learning ML & Product mana
 
 
 - ⚡ I love 🏀⛹️‍♀️ (still learning 😃) and writing (I work as a content writer too)
-- 
+
+
 🕸 Here's my [Personal webiste/CV](http://blooming-basin-13464.herokuapp.com/)
 
 
