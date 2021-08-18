@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 
 
 [Personal webiste/CV](http://blooming-basin-13464.herokuapp.com/)
+
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=elshadaik&show_icons=true&theme=radical)
+
