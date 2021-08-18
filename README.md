@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=elshadaik&show_icons=true&theme=tokyonight)
 
+![Stat](https://github-profile-trophy.vercel.app/?username=elshadaik&theme=darkhub)
+
