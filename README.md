@@ -8,9 +8,11 @@ Here are some ideas to get you started:
 
 -->
 
-- 😄 She/her
-- I'm currently wrking on NodeJS & Flutter & Django and Learning ML & Product management
-- You can find me on [![Twitter][1.2]][1], on [LinkedIn](https://www.linkedin.com/in/elshadai-tegegn/), or email [Elshadai Tegegn](mailto:elshadai.tegegn@gmail.com?subject=[GitHub]).
+- Elsh here
+I'm currently wrking on NodeJS & Flutter & Django and Learning ML & Product management
+
+
+- Wanna 💬? You can find me on [![Twitter][1.2]][1], on [LinkedIn](https://www.linkedin.com/in/elshadai-tegegn/), or email [Elshadai Tegegn](mailto:elshadai.tegegn@gmail.com?subject=[GitHub]).
 
 
 
@@ -25,7 +27,8 @@ Here are some ideas to get you started:
 
 
 - ⚡ I love 🏀⛹️‍♀️ (still learning 😃) and writing (I work as a content writer too)
-- 🕸 [Personal webiste/CV](http://blooming-basin-13464.herokuapp.com/)
+- 
+🕸 Here's my [Personal webiste/CV](http://blooming-basin-13464.herokuapp.com/)
 
 
 
