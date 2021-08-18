@@ -9,9 +9,10 @@ Here are some ideas to get you started:
 -->
 
 - 😄 She/her
-- 👩‍💻 Working on NodeJS & Flutter && Learning ML & Product management
-- 📫 How to reach me: [Elshadai Tegegn](mailto:elshadai.tegegn@gmail.com?subject=[GitHub]) or [Linkedin](https://www.linkedin.com/in/elshadai-tegegn)
-- ⚡ Hobbies: Playing basketball and writing
+- 👩‍💻 Working on NodeJS & Flutter & Django
+- 👩‍🏫 Learning ML & Product management
+- 📫 Reach me at: [Elshadai Tegegn](mailto:elshadai.tegegn@gmail.com?subject=[GitHub]) or [Linkedin](https://www.linkedin.com/in/elshadai-tegegn)
+- ⚡ I love 🏀⛹️‍♀️ (still learning 😃) and writing (I work as a content writer too)
 
 
 [Personal webiste/CV](http://blooming-basin-13464.herokuapp.com/)
