@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Hobbies: Playing basketball and writing
 
 
-CV: http://blooming-basin-13464.herokuapp.com/
+[Personal webiste/CV](http://blooming-basin-13464.herokuapp.com/)
