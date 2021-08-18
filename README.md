@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 [Personal webiste/CV](http://blooming-basin-13464.herokuapp.com/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elshadaik)](https://github.com/anuraghazra/github-readme-stats)
+
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=elshadaik&show_icons=true&theme=tokyonight)
-
-![Stat](https://github-profile-trophy.vercel.app/?username=elshadaik&theme=darkhub)
-
