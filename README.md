@@ -9,9 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - 😄 She/her
-- 👩‍💻 Working on NodeJS & Flutter & Django
-- 👩‍🏫 Learning ML & Product management
-- 📫 Reach me at: 
+- I'm currently wrking on NodeJS & Flutter & Django and Learning ML & Product management
 - You can find me on [![Twitter][1.2]][1], on [LinkedIn](https://www.linkedin.com/in/elshadai-tegegn/), or email [Elshadai Tegegn](mailto:elshadai.tegegn@gmail.com?subject=[GitHub]).
 
 
