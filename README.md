@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ I love 🏀⛹️‍♀️ (still learning 😃) and writing (I work as a content writer too)
 
 
-🕸 Personal webiste [CV](http://blooming-basin-13464.herokuapp.com/)
+🕸 Personal webiste [CV](http://blooming-basin-13464.herokuapp.com/) [Resume](https://drive.google.com/file/d/1zr5kXkmJ8g86JSO0o-w2D-Ti48F8YgsW/view?usp=sharing)
 
 
 
