@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 
 -->
 
-- Elsh here! I'm currently working on NodeJS & Flutter & Django. I am interested in ML. (learning)
+- Elsh here! I'm currently an SDE intern at Amazon AWS, Germany. I am interested in ML, Psychology, and Criminology.
 
 
-- Wanna 💬? You can find me on [Twitter](https://twitter.com/pour_qua), on [LinkedIn](https://www.linkedin.com/in/elshadai-tegegn/), or email [Elshadai Tegegn](mailto:elshadai.tegegn@gmail.com?subject=[GitHub]).
+- Wanna 💬? You can find me on [Instagram](https://instagram.com/pour_qua), [Twitter](https://twitter.com/pour_qua), on [LinkedIn](https://www.linkedin.com/in/elshadai-tegegn/), or email [Elshadai Tegegn](mailto:elshadai.tegegn@gmail.com?subject=[GitHub]).
 
 
 
