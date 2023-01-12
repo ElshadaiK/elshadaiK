@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-- ⚡ I love 🏀⛹️‍♀️ (still learning 😃) and writing (I work as a content writer too)
+- ⚡ I love 🏀⛹️‍♀️ (still learning 😃) and writing 🖋
 
 
 🕸 Personal webiste [CV](https://shimmering-brioche-d1fe92.netlify.app/), and find my latest resume here: [Resume](https://drive.google.com/file/d/1zr5kXkmJ8g86JSO0o-w2D-Ti48F8YgsW/view?usp=sharing)
