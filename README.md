@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 - ⚡ I love 🏀⛹️‍♀️ (still learning 😃) and writing 🖋
 
 
-🕸 Personal webiste [CV](https://elshadaik.github.io/), and find my latest resume here: [Resume](https://drive.google.com/file/d/1zr5kXkmJ8g86JSO0o-w2D-Ti48F8YgsW/view?usp=sharing)
-
+🕸 Personal webiste [Portfolio](https://elshadaik.github.io/)
 
 
 <a href="">
